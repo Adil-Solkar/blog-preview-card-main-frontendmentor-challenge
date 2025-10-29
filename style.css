@@ -7,7 +7,7 @@
 }
 
 p {
-    font-weight: 600;
+    font-weight: 500;
 }
 
 a {
@@ -48,7 +48,7 @@ body {
 .main-link {
     display: inline-block;
     padding: .25em .75em;
-    font-weight: 900;
+    font-weight: 800;
     background: #F4D04E;
     border-radius: 5px;
     margin-bottom: 1em;
@@ -65,7 +65,7 @@ body {
 
 .main-heading {
     font-size: 1.5rem;
-    font-weight: 900;
+    font-weight: 800;
 }
 
 .main-heading:hover,
@@ -91,7 +91,7 @@ body {
 }
 
 .author-name {
-    font-weight: 900;
+    font-weight: 800;
     font-size: 0.875em;
 }
 
