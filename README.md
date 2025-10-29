@@ -18,7 +18,7 @@ Users should be able to:
 ![](./assets/images/Screenshot-Blog-Preview-Card.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://adil-solkar.github.io/blog-preview-card-main-frontendmentor-challenge/)
+- Live Site URL(https://adil-solkar.github.io/blog-preview-card-main-frontendmentor-challenge/)
 
 ## Author
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Adil-Solkar)
