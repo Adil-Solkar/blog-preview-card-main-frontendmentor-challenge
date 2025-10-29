@@ -55,7 +55,7 @@ body {
 }
 
 .main-link:hover,
-.main-link:hover {
+.main-link:focus {
     background: #ebbd19;
 }
 
